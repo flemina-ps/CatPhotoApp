@@ -1,2 +1,2 @@
 # CatPhotoApp
-Website
+A basic Cat Photo Website using pure HTML only
